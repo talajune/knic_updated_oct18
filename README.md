@@ -1,3 +1,6 @@
+Please now refer to https://github.com/talajune/KNIC_Oct19 for most recent code.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
